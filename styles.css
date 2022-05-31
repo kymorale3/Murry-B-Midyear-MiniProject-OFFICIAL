@@ -1,0 +1,22 @@
+h1 {  display: flex;
+  justify-content: center;
+    background-color: white;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.main {
+     border: 8px solid ;
+    padding: 10px;
+    margin: 100px;
+}
+.main2 {  border: 8px solid BlanchedAlmond	 ;
+    padding: 10px;
+    margin: 100px; }
+img{ width: 450px;
+width: 100%;
+    font-size: 20px;
+     display: flex;
+  justify-content: space-between;
+
+}
+p{
+background-color: white;}
